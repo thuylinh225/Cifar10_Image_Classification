@@ -29,4 +29,5 @@ CIFAR-10 is a collection of images used to train Machine Learning and Computer V
 There are 50,000 training images and 10,000 test images, labeled over 10 categories in the official data.  
 
 The label classes in the dataset are: 
+
 ![image](https://user-images.githubusercontent.com/63614659/221905625-09e1d667-cc0d-48ca-9e24-9655b64c758b.png)
