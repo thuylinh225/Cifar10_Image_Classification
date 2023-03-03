@@ -1,7 +1,7 @@
 # Cifar10_Image_Classification. 
 
 ## 1.1 Problem. 
-Image classification is one of the most important applications of deep learning, refers to assigning labels to images based on certain characteristics or features present in them. The algorithm identifies these features and uses them to differentiate different images and assign labels to them. In this project, my goal is to classify images from CIFAR-10 dataset by training Convolutional Neural Networks (CNNs). To achieve this goal, I will:       
+Deep learning is a type of machine learning based on artificial neural networks that teaches computers to do what comes naturally to humans: learn by example. In deep learning, a computer model learns to perform classification tasks directly from images, text, or sound. Image classification is one of the most important applications of deep learning, refers to assigning labels to images based on certain characteristics or features present in them. The algorithm identifies these features and uses them to differentiate different images and assign labels to them. In this project, my goal is to classify images from CIFAR-10 dataset by training Convolutional Neural Networks (CNNs). To achieve this goal, I will:    
 + Load in the data.       
 + EDA - Inspect, Visualize, and Clean the data.      
 + Building and training models:     
